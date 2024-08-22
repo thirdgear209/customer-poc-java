@@ -1,0 +1,38 @@
+{
+    "id": 2,
+    "customerId": "20240821-134424",
+    "firstName": "donald",
+    "lastName": "duck",
+    "addresses": [],
+    "phoneNumbers": [
+        {
+            "id": 0,
+            "areaCode": 0,
+            "number": 2223333,
+            "createdAt": null,
+            "updatedAt": null,
+            "customer": null,
+            "type": null,
+            "active": true,
+            "formattedNumber": "(0)222-3333",
+            "primary": true
+        }
+    ],
+    "emailAddresses": [],
+    "notes": [],
+    "transactions": [],
+    "createdAt": "2024-08-21T20:44:27.211+00:00",
+    "updatedAt": null,
+    "primaryPhoneNumber": {
+        "id": 0,
+        "areaCode": 0,
+        "number": 2223333,
+        "createdAt": null,
+        "updatedAt": null,
+        "customer": null,
+        "type": null,
+        "active": true,
+        "formattedNumber": "(0)222-3333",
+        "primary": true
+    }
+}
